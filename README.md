@@ -1,4 +1,4 @@
-# Mercari_Kaggle_Comp
+# Mercari Kaggle Competition
 A RNN, Ridge, and RidgeCV aggregate model for the Mercari Kaggle competition (RMSLE score of 0.427) 
 
 Here is the compo page: https://www.kaggle.com/c/mercari-price-suggestion-challenge
