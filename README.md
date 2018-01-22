@@ -2,6 +2,7 @@
 A RNN, Ridge, and RidgeCV aggregate model for the Mercari Kaggle competition (RMSLE score of 0.427) 
 
 Here is the compo page: https://www.kaggle.com/c/mercari-price-suggestion-challenge
+
 The original Kernal can be tried and run here: https://www.kaggle.com/valkling/mercari-rnn-2ridge-models-with-notes-0-42755
 
 The Mercari Price Suggestion Challenge is a $100,000 machine learning competition on Kaggle. The goal being to predict the sale price of items on Mercari. Mercari wants to have this prediction so that it can suggest to it's users what price new postings are likely to sell at. 
